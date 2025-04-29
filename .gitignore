@@ -1,5 +1,14 @@
-frontend/node_modules
-frontend/package-lock.json
-frontend/.idea
-frontend/build
-frontend/.env
+# Node y React
+frontend/node_modules/
+frontend/build/
+
+# Java Maven/Tomcat
+backend/target/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Archivos de sistema
+*.log
